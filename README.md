@@ -1,4 +1,4 @@
-# Tanjagllafce
+# Tanja Gllafce
 
 # About me
 
@@ -9,7 +9,7 @@ Hi! I am a Finance and Economics student with hands-on experience using Power BI
 
 ---
 
-## R Project
+## R Statistical Anlaysis Project
 A full statistical analysis studying how hourly wages vary across **race**, **sex**, **age**, and **education** using 2020 IPUMs data.  
 This project includes data cleaning, regression modeling (linear, log, polynomial, interaction effects), descriptive statistics, and ggplot2 visualizations.
 
