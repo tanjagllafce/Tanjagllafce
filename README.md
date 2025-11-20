@@ -56,7 +56,7 @@ A full analytical case study conducted for the City of Chicago using 2023 taxi t
 
 ## Key Takeaways
 - **Majority of pick-ups and drop-offs are coming from O'Hare**
-- **There are a few taxi cabs thta dominate the space, such as Taxi Affiliation Services, Sun Taxi, & Taxicab Insurance Agency LLC**
+- **There are a few taxi cabs that dominate the space, such as Taxi Affiliation Services, Sun Taxi, & Taxicab Insurance Agency LLC**
 - **Most popular payment types for trips include credit cards,cash, and mobile payments, in that order**
 
 
