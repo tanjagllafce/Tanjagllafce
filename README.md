@@ -35,6 +35,21 @@ This project includes data cleaning, regression modeling (linear, log, polynomia
 - **Men continue to make more hourly compared to women, regardless of education level**
 - **Wages tend to increase with age up until a point, and then they taper off**
 
+# Chicago Taxi Data Analysis Project
+A full analytical case study conducted for the City of Chicago using 2023 taxi trip data from Google BigQuery. This project focuses on rides to and from O’Hare and Midway airports, including trip costs, duration, distance, pickup/drop-off patterns, company activity, and rider behavior. This project includes SQL-based data filtering in conjunction with Excel dashboard creation. 
+
+**Project Folder**
+
+**SQL Query**
+
+**Excel Dashboards & Cleaned Data**
+
+## Key Takeaways
+- **Majority of pick-ups and drop-offs are coming from O'Hare**
+- **There are a few taxi cabs thta dominate the space, such as Taxi Affiliation Services, Sun Taxi, & Taxicab Insurance Agency LLC**
+- **Most popular payment types for trips include credit cards,cash, and mobile payments, in that order**
+
+
 ---
 
 ## Skills
