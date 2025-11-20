@@ -39,10 +39,21 @@ This project includes data cleaning, regression modeling (linear, log, polynomia
 A full analytical case study conducted for the City of Chicago using 2023 taxi trip data from Google BigQuery. This project focuses on rides to and from O’Hare and Midway airports, including trip costs, duration, distance, pickup/drop-off patterns, company activity, and rider behavior. This project includes SQL-based data filtering in conjunction with Excel dashboard creation. 
 
 **Project Folder**
+[Chicago-Taxi-Case-Study](Chicago-Taxi-Case-Study/) 
 
 **SQL Query**
+- **Drop-offs SQL:**  
+  [Chicago Taxi Trips Drop-offs.sql](Chicago-Taxi-Case-Study/Chicago%20Taxi%20Trips%20Drop-offs.sql)
 
-**Excel Dashboards & Cleaned Data**
+- **Pick-ups SQL:**  
+  [Chicago Taxi Trips Pick-ups.sql](Chicago-Taxi-Case-Study/Chicago%20Taxi%20Trips%20Pick-ups.sql)
+
+**Excel Dashboards**
+- **Drop-offs Dashboard:**  
+  [Chicago Airport Drop-offs Dashboard.png](Chicago-Taxi-Case-Study/Chicago%20Airport%20Drop-offs%20Dashboard.png)
+
+- **Pick-ups Dashboard:**  
+  [Chicago Airport Pick-ups Dashboard.png](Chicago-Taxi-Case-Study/Chicago%20Airport%20Pick-ups%20Dashboard.png)
 
 ## Key Takeaways
 - **Majority of pick-ups and drop-offs are coming from O'Hare**
