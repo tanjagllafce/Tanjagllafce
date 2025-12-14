@@ -91,16 +91,16 @@ An end-to-end exploratory case study analyzing undergraduate enrollment trends a
 - Executive-style written analysis
 
 **Project Folder**:
-IPEDS-College-Enrollment-Analysis
+
 
 **R Script**:
-R Script – Enrollment Analysis
+
 
 **Power BI Dashboard**:
-Enrollment Benchmarking Dashboard.pbix
+
 
 **Final Report**:
-College Enrollment Case Study Report (PDF)
+
 
 **Visuals**:
 
