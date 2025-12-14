@@ -6,12 +6,20 @@ Hi! I am a Finance and Economics student with hands-on experience using Power BI
 
 
 # Data Analytics Portfolio
-
 ---
 
-## R Statistical Anlaysis Project
-A full statistical analysis studying how hourly wages vary across **race**, **sex**, **age**, and **education** using 2020 IPUMs data.  
-This project includes data cleaning, regression modeling (linear, log, polynomial, interaction effects), descriptive statistics, and ggplot2 visualizations.
+# Wage Demographics Statistical Analysis 
+
+Tools: R · ggplot2 · dplyr · tidyr · Regression Analysis
+
+A comprehensive econometric analysis examining how hourly wages vary by **race**, **sex**, **age**, and **education** using 2020 IPUMS microdata. The project applies multiple regression techniques to uncover wage patterns and disparities.
+
+# Key Components: 
+
+- Data cleaning and variable engineering
+- Linear, log, polynomial, and interaction regressions
+- Descriptive statistics and data visualization
+- Research paper interpreting economic implications
 
  **Project Folder:**  
 [R/Wage-Demographics-Analysis](R/Wage-Demographics-Analysis/)
@@ -29,13 +37,22 @@ This project includes data cleaning, regression modeling (linear, log, polynomia
 - [Wage by Race](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Race.png)  
 - [Wage by Sex](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Sex.png)
 
-## Key Takeaways
-- **Wages increase with higher levels of educational attainment**
-- **Men continue to make more hourly compared to women, regardless of education level**
-- **Wages tend to increase with age up until a point, and then they taper off**
+## Key Takeaways: 
+- **Higher educational attainment is strongly associated with increased wages**
+- **Persistent gender wage gaps remain across education levels**
+- **Wage growth increases with age before plateauing later in the career lifecycle**
 
-# Chicago Taxi Data Analysis Project
-A full analytical case study conducted for the City of Chicago using 2023 taxi trip data from Google BigQuery. This project focuses on rides to and from O’Hare and Midway airports, including trip costs, duration, distance, pickup/drop-off patterns, company activity, and rider behavior. This project includes SQL-based data filtering in conjunction with Excel dashboard creation. 
+-----
+# Chicago Taxi Airport Case Study  
+
+Tools: SQL · Excel · Data Visualization
+
+An analytical case study using 2023 Chicago taxi trip data to evaluate travel patterns to and from O’Hare and Midway airports. The project focuses on cost, trip duration, distance, company activity, and rider behavior.
+
+# Key Components: 
+- SQL-based filtering and aggregation in Google BigQuery
+- Airport-focused pickup and drop-off analysis
+- Interactive Excel dashboards for stakeholder insights
 
 **Project Folder:** 
 [Chicago-Taxi-Case-Study](Chicago-Taxi-Case-Study/) 
@@ -54,13 +71,47 @@ A full analytical case study conducted for the City of Chicago using 2023 taxi t
 - **Pick-ups Dashboard:**  
   [Chicago Airport Pick-ups Dashboard.png](Chicago-Taxi-Case-Study/Chicago%20Airport%20Pick-ups%20Dashboard.png)
 
-## Key Takeaways
-- **Majority of pick-ups and drop-offs are coming from O'Hare**
-- **There are a few taxi cabs that dominate the space, such as Taxi Affiliation Services, Sun Taxi, & Taxicab Insurance Agency LLC**
-- **Most popular payment types for trips include credit cards,cash, and mobile payments, in that order**
+## Key Takeaways: 
+- **O’Hare accounts for the majority of airport taxi traffic**
+- **A small number of taxi companies dominate airport rides**
+- **Credit cards are the most common payment method, followed by cash and mobile payments**
 
+---
+## College Enrollment Drivers Case Study 
+
+Tools: R · Power BI · Data Visualization · Exploratory Analysis
+
+An end-to-end exploratory case study analyzing undergraduate enrollment trends at private, not-for-profit, primarily baccalaureate institutions using IPEDS data. The project focuses on identifying factors associated with enrollment changes over time and benchmarking Elmhurst University against peer institutions.
+
+# Key Components: 
+- IPEDS data extraction and cleaning
+- Exploratory and time-series analysis in R
+- High-quality statistical and trend visualizations
+- Power BI dashboards for peer benchmarking
+- Executive-style written analysis
+
+**Project Folder**:
+IPEDS-College-Enrollment-Analysis
+
+**R Script**:
+R Script – Enrollment Analysis
+
+**Power BI Dashboard**:
+Enrollment Benchmarking Dashboard.pbix
+
+**Final Report**:
+College Enrollment Case Study Report (PDF)
+
+**Visuals**:
+
+## Key Takeaways:
 
 ---
 
 ## Skills
-R · SQL · Power BI · Excel · ggplot2 · dplyr · tidyr · Statistical Modeling · Data Visualization
+
+**Languages & Tools**: R · SQL · Power BI · Excel
+
+**Analytics**: Statistical Modeling · Regression Analysis · Data Cleaning
+
+**Visualization**: ggplot2 · Dashboards · Data Storytelling
