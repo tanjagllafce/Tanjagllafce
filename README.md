@@ -110,9 +110,9 @@ An exploratory case study analyzing undergraduate enrollment trends at private, 
 - [Final Case Study Paper](IPEDS-College-Enrollment-Analysis/report/Case%20Study%203.docx) 
 
 ## Key Takeaways:
--**Elmhurst’s retention and graduation rates sit in the middle of the range for institutions of similar size**
--**Elmhurst’s tuition and fees are substantially lower than their peers**
--**Elmhurst’s admission rate is higher and its yield rate lower than comparison institutions**
+- **Elmhurst’s retention and graduation rates sit in the middle of the range for institutions of similar size**
+- **Elmhurst’s tuition and fees are substantially lower than their peers**
+- **Elmhurst’s admission rate is higher and its yield rate lower than comparison institutions**
 
 ---
 
