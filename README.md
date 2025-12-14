@@ -31,11 +31,11 @@ A comprehensive econometric analysis examining how hourly wages vary by **race**
 - [Econometrics Final Paper.pdf](R/Wage-Demographics-Analysis/Econometrics%20Final%20Paper.pdf)
 
  **Visuals:**  
-- ![Regression Table](R/Wage-Demographics-Analysis/Regression%20Analysis.png)  
-- ![Wage by Age](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Age.png)  
-- ![Wage by Education](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Education.png)  
-- ![Wage by Race](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Race.png)  
-- ![Wage by Sex](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Sex.png)
+- [Regression Table](R/Wage-Demographics-Analysis/Regression%20Analysis.png)  
+- [Wage by Age](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Age.png)  
+- [Wage by Education](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Education.png)  
+- [Wage by Race](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Race.png)  
+- [Wage by Sex](R/Wage-Demographics-Analysis/Average%20Hourly%20Wage%20by%20Sex.png)
 
 ## Key Takeaways: 
 - **Higher educational attainment is strongly associated with increased wages**
@@ -66,10 +66,10 @@ An analytical case study using 2023 Chicago taxi trip data to evaluate travel pa
 
 **Excel Dashboards:**
 - **Drop-offs Dashboard:**  
-  ![Chicago Airport Drop-offs Dashboard.png](Chicago-Taxi-Case-Study/Chicago%20Airport%20Drop-offs%20Dashboard.png)
+  [Chicago Airport Drop-offs Dashboard](Chicago-Taxi-Case-Study/Chicago%20Airport%20Drop-offs%20Dashboard.png)
 
 - **Pick-ups Dashboard:**  
-  ![Chicago Airport Pick-ups Dashboard.png](Chicago-Taxi-Case-Study/Chicago%20Airport%20Pick-ups%20Dashboard.png)
+  [Chicago Airport Pick-ups Dashboard](Chicago-Taxi-Case-Study/Chicago%20Airport%20Pick-ups%20Dashboard.png)
 
 ## Key Takeaways: 
 - **O’Hare accounts for the majority of airport taxi traffic**
@@ -97,23 +97,21 @@ An exploratory case study analyzing undergraduate enrollment trends at private, 
 - [CaseStudyIII.R](IPEDS-College-Enrollment-Analysis/analysis/CaseStudyIII.R) 
 
  **Power BI Dashboards**:
-- ![Power BI Dashboard](IPEDS-College-Enrollment-Analysis/visuals/Powerbi%20Dashboard%201.png)
-- ![Power BI Dashboard](IPEDS-College-Enrollment-Analysis/visuals/Powerbi%20Dashboard%202.png)
+- [Power BI Dashboard](IPEDS-College-Enrollment-Analysis/visuals/Powerbi%20Dashboard%201.png)
+- [Power BI Dashboard](IPEDS-College-Enrollment-Analysis/visuals/Powerbi%20Dashboard%202.png)
 
  **Visuals**:
-- ![Admissions Yield](IPEDS-College-Enrollment-Analysis/visuals/Admissions%20Yield.png)
-- ![Undergrad Enrollment](IPEDS-College-Enrollment-Analysis/visuals/Undergrad%20Enrollment.png)
-- ![Retention Rate](IPEDS-College-Enrollment-Analysis/visuals/Retention%20Rate.png)
-- ![Graduation Rate](IPEDS-College-Enrollment-Analysis/visuals/Graduation%20Rate.png)
+- [Admissions Yield](IPEDS-College-Enrollment-Analysis/visuals/Admissions%20Yield.png)
+- [Undergrad Enrollment](IPEDS-College-Enrollment-Analysis/visuals/Undergrad%20Enrollment.png)
+- [Retention Rate](IPEDS-College-Enrollment-Analysis/visuals/Retention%20Rate.png)
+- [Graduation Rate](IPEDS-College-Enrollment-Analysis/visuals/Graduation%20Rate.png)
 
  **Final Report**:
 - [Final Case Study Paper](IPEDS-College-Enrollment-Analysis/report/Case%20Study%203.docx) 
 
 ## Key Takeaways:
 -**Elmhurst’s retention and graduation rates sit in the middle of the range for institutions of similar size**
-
 -**Elmhurst’s tuition and fees are substantially lower than their peers**
-
 -**Elmhurst’s admission rate is higher and its yield rate lower than comparison institutions**
 
 ---
